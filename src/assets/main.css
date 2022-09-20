@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+}
+body,
+#app {
+  height: 100%;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
